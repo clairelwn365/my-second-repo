@@ -1,3 +1,6 @@
 Hello Git
 New line added
+<<<<<<< HEAD
 New line added
+=======
+>>>>>>> 4df9436c52e1ed8e018ce769d2a1f8fc9ab0da4c
